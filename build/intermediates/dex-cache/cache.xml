@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_362d45e32420a579d4d28704a92b27cc1bd0cc64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_30215c593aa7e8a04cf0becdb1318a7c9f733cf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_a7863f563ec1fcf4ec6fe3243d2795947dd3b2d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/libs/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_912c8d31590b12e7bc2188db96a47299f5dbaba1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_ba51077bae2fd264941be3caa9e817e884ac7d31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/libs/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_e4d4210e17013afae87451d0151635161edee75a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1820fb5961547f10fba70e44379d859833fbbfeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/libs/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_0797abee4bc343bad8bb6aaadaf8da046bd78b0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="10d06b9b0d007bda67bef2581e7ccb579e8b212f">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_78c524626151068b07d94def2f7f2d4deafcec5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c43836f6c02c762a0874499e0175c11908b2b1de">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9bd2efec8cc56c623af4415f9d8aa6799d6b4a46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_64d6ceeb7b9462093d678bd140af59d92511f70e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a7faf736657c611ca89cc76de4703c4f07e31101/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_0a219959b5785dd16ff8e98010ce6333c54937b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e1a13f740411c92a77df49f8af55f2a2f1df959a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_5e3067e9eb5e99e8b45fd6ba67d596280b6b2065/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_880e938e1d99a4a950d0138427dec23e765c2842/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.github.delight-im/Android-SimpleLocation/v1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f10c2243bdf2d68bd85d090cc88bb273dd4ce0a9">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.delight-im-Android-SimpleLocation-v1.0.1_4b43d8fac252e6a00d59238c40ca3c85259099a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6b5f6b3787397f10dc6b1dff1039429cbf044562/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_08947a5e82faf4d9f6320b0cb7b79c10380377db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_deda6c9242bbb5a2818a4e50ea88415e51af6747/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_605af417044b7af4e024b2c3f52abed629a882b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_60bdf00ba09b9b0eaa03163b231bd6fdad85bbcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/kentakawaguchi/Desktop/TIP-Line/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_7ccbc74619281d6c1a2ae8ca2fccbdbad6416e9d/classes.dex" />
+    </item>
+
+</items>
